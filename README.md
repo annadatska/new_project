@@ -1,20 +1,23 @@
-Jira Ticket:
+# Jira Ticket:
 
-Task Title: Set up new Git repository and create development branch for 'new-project'
+## ***Task Title:***
 
-Task Description:
+Set up new Git repository and create development branch for 'new-project'
 
-As a developer, I need a new GitHub repository for 'new-project' and i need a development branch so that I can work on new features without affecting the main branch. 
-Readme file should contain step-by-step instructions on how we can do it ourselves.
+## ***Task Description:***
 
-Expected Results:
+> As a developer, I need a new GitHub repository for 'new-project' and I need a development branch
+> so that I can work on new features without affecting the main branch. 
+> Readme file should contain step-by-step instructions on how we can do it ourselves.
 
-A new branch called "development" is created and the user is able to switch to it successfully.
-A new file called "README.md" is created and step-by-step instructions is added to it successfully.
-The changes to the "development" branch are committed with a commit message successfully.
-The changes from the "development" branch are merged into the "main" branch successfully.
+## ***Expected Results:***
+
+- A new branch called "development" is created and the user is able to switch to it successfully.
+- A new file called "README.md" is created and step-by-step instructions is added to it successfully.
+- The changes to the "development" branch are committed with a commit message successfully.
+- The changes from the "development" branch are merged into the "main" branch successfully.
 
 
-Definition of Done (DoD):
+## ***Definition of Done (DoD):***
 
 Link to new-project Readme file
