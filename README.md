@@ -1,16 +1,16 @@
 # Jira Ticket:
 
-## ***Task Title:***
+### ***Task Title:***
 
 Set up new Git repository and create development branch for 'new-project'
 
-## ***Task Description:***
+### ***Task Description:***
 
 > As a developer, I need a new GitHub repository for 'new-project' and I need a development branch
 > so that I can work on new features without affecting the main branch. 
 > Readme file should contain step-by-step instructions on how we can do it ourselves.
 
-## ***Expected Results:***
+### ***Expected Results:***
 
 - A new branch called "development" is created and the user is able to switch to it successfully.
 - A new file called "README.md" is created and step-by-step instructions is added to it successfully.
@@ -18,6 +18,6 @@ Set up new Git repository and create development branch for 'new-project'
 - The changes from the "development" branch are merged into the "main" branch successfully.
 
 
-## ***Definition of Done (DoD):***
+### ***Definition of Done (DoD):***
 
 Link to new-project Readme file
